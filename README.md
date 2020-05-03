@@ -1,9 +1,9 @@
-# Matroniq
-Rollerduck Icons and Wallpapers
-for Android
+</div>## Matroniq</div>
+<div align="center">Rollerduck Icons and Wallpapers
+for Android</div>
 
-![Blue-torn](Thumbs/Blue-torn.png)
+<div align="center">![Blue-torn](Thumbs/Blue-torn.png)</div>
 
 
-![Blue](Thumbs/Blue.png)
+<div align="center">![Blue](Thumbs/Blue.png)</div>
 
