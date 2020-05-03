@@ -1,4 +1,5 @@
 # Matroniq
 Rollerduck Icons and Wallpapers
 for Android
-!Thumbs/Blue-torn.jpg
+
+!(Thumbs/Blue-torn.jpg)
