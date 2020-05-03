@@ -2,4 +2,4 @@
 Rollerduck Icons and Wallpapers
 for Android
 
-!(Thumbs/Blue-torn.jpg)
+![Blue-torn](Thumbs/Blue-torn.jpg)
