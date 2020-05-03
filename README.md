@@ -1,3 +1,2 @@
-# Matroniq
 
-!(Blue-torn)[Thumbs/Blue-torn.png]
+![Blue-torn](Thumbs/Blue-torn.png)
