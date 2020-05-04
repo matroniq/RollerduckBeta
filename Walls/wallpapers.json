@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Blue-torn",
-		"author": "Rafael Murzabekov",
+		"author": "",
 		"url": "https://raw.githubusercontent.com/matroniq/RollerduckBeta/master/Walls/Blue-torn.jpeg",
 		"thumbnail": "https://raw.githubusercontent.com/matroniq/RollerduckBeta/master/Thumbs/Blue-torn.png",
 		"collections": "ABSTRACT",
@@ -12,6 +12,7 @@
 	},
 	{
 		"name": "Blue",
+		"author": "",
 		"url": "https://raw.githubusercontent.com/matroniq/RollerduckBeta/master/Walls/Blue.jpeg",
 		"thumbnail": "https://raw.githubusercontent.com/matroniq/RollerduckBeta/master/Thumbs/Blue.png",
 		"collections": "Landscapes,Art,Material Design",
