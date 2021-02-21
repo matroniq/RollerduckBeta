@@ -47,7 +47,7 @@
 		"name": "Honey_deckled",
 		"author": "",
 		"url": "https://raw.githubusercontent.com/matroniq/RollerduckBeta/master/Walls/Honey_deckled.png",
-		"thumbnail": "https://raw.githubusercontent.com/matroniq/RollerduckBeta/master/Thumbs/Honey_deckled.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/matroniq/RollerduckBeta/master/Thumbs/Honey_deckled.png",
 		"collections": "ABSTRACT",
 		"downloadable": true,
 		"size": 1730109,
@@ -74,7 +74,7 @@
 		"downloadable": true,
 		"size": 3040143,
 		"dimensions": "1920 x 1920 px",
-		"copyright": "© 2021 Rafael Murzabekov. Textures by onlygfx.com and wildtextures.com"
+		"copyright": "© 2021 Rafael Murzabekov"
 	},
 	{
 		"name": "Math",
@@ -85,7 +85,7 @@
 		"downloadable": true,
 		"size": 985442,
 		"dimensions": "1920 x 1920 px",
-		"copyright": "© 2021 Rafael Murzabekov. Textures by onlygfx.com and wildtextures.com"
+		"copyright": "© 2021 Rafael Murzabekov"
 	},
 	{
 		"name": "Milk_deckled",
@@ -228,7 +228,7 @@
 		"downloadable": true,
 		"size": 2806453,
 		"dimensions": "1920 x 1920 px",
-		"copyright": "© 2021 Rafael Murzabekov. Textures by onlygfx.com"
+		"copyright": "© 2021 Rafael Murzabekov"
 	},
 	{
 		"name": "Tree",
@@ -239,7 +239,7 @@
 		"downloadable": true,
 		"size": 809718,
 		"dimensions": "1920 x 1920 px",
-		"copyright": "© 2021 Rafael Murzabekov. Textures by onlygfx.com"
+		"copyright": "© 2021 Rafael Murzabekov"
 	},
 	{
 		"name": "Canvas1_deckled",
